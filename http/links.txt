@@ -1,0 +1,2 @@
+Protocolo DNS - https://youtu.be/dmnCEcbp3vg
+Servidor HTTP com pyhton - https://youtu.be/gcAkgjbYUZQ
